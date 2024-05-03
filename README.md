@@ -13,4 +13,6 @@ GitHub's open-source communities are groups of developers in a specific city or 
 
 | Name | GitHub Username | City/Country | Time Zone | Avatar |
 |---|---|---|---|---| 
-
+| Ahamed Safnaj | [@Safnaj](https://github.com/Safnaj) | Colombo/Sri Lanka | GMT+5.30 | ![](https://avatars.githubusercontent.com/Safnaj?s=64) |
+| Chamod Shehanka | [@chamodshehanka](https://github.com/chamodshehanka) | Colombo/Sri Lanka | GMT+5.30 | ![](https://avatars.githubusercontent.com/chamodshehanka?s=64) |
+| Suvin Nimnaka | [@Suvink](https://github.com/Suvink) | Colombo/Sri Lanka | GMT+5.30 | ![](https://avatars.githubusercontent.com/Suvink?s=64) |
